@@ -1,4 +1,4 @@
-# 🏥 Healthcare Orders Data Analysis
+Healthcare Orders Data Analysis
 
 # Project Overview
 This project demonstrates an end-to-end **data pipeline** for analyzing healthcare orders.  
