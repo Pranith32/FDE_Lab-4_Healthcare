@@ -1,6 +1,6 @@
 # 🏥 Healthcare Orders Data Analysis
 
-## 📌 Project Overview
+# Project Overview
 This project demonstrates an end-to-end **data pipeline** for analyzing healthcare orders.  
 It is divided into three main tasks:
 
@@ -12,7 +12,7 @@ The goal is to provide a structured approach for handling healthcare datasets an
 
 ---
 
-## 📂 Repository Structure
+# Repository Structure
 ├── healthcare_orders.csv # Raw dataset
 ├── Task-1_Healthcare_Orders_Data Ingestion.ipynb # Notebook for ingestion & cleaning
 ├── Task-2_Data Aggregation_Healthcare.ipynb # Notebook for aggregation & transformation
